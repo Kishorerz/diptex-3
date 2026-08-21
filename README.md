@@ -113,7 +113,7 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 <img width="1148" height="375" alt="image" src="https://github.com/user-attachments/assets/8aa4a8cf-f76b-49f9-b0af-064f709458c8" />
 
 - Histogram of enhanced image shows better intensity distribution
-![Uploading image.png…]()
+<img width="1148" height="375" alt="image" src="https://github.com/user-attachments/assets/360977f5-ef51-46ff-a494-82ea04f6bfa9" />
 
 
 
